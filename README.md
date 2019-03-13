@@ -4,4 +4,4 @@ android唱k打分，和全民k歌，唱吧的唱k评分功能一样，可以实�
 
 效果图：
 
-![image](https://github.com/KaLongChan/SingRate/blob/master/imgs/S81128-115002.jpg)
+![image](https://github.com/KaLongChan/SingRate/blob/master/imgs/S81128-115003.jpg)
